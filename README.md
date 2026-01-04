@@ -37,7 +37,6 @@ https://fatemesbati.github.io/blog-app/#/
 - **Material UI (v5)**
 - **React Router v6**
 - **React Quill**
-- **Jest & React Testing Library**
 
 ---
 
@@ -91,20 +90,6 @@ The application will be available at:
 ```
 http://localhost:3000
 ```
-
----
-
-## 🧪 Testing
-
-* Unit and integration tests implemented with:
-
-  * Jest
-  * React Testing Library
-* Focus on:
-
-  * CRUD operations
-  * Component behavior
-  * User interactions
 
 ---
 
