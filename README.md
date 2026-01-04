@@ -132,17 +132,6 @@ http://localhost:3000
 
 ---
 
-## 🔮 Possible Improvements
-
-* Backend integration
-* Authentication & authorization
-* Comments system
-* Categories and tags
-* Image upload support
-* Draft posts
-
----
-
 ## 👤 Author
 
 **Fateme**
