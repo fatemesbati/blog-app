@@ -4,8 +4,7 @@
  */
 
 import React, { useEffect } from 'react';
-import { Routes, Route, useLocation } from 'react-router-dom';
-import { HashRouter as Router } from 'react-router-dom';
+import { HashRouter as Router, Routes, Route, useLocation } from 'react-router-dom';
 import { ThemeProvider } from '@mui/material/styles';
 import CssBaseline from '@mui/material/CssBaseline';
 import { Box, AppBar, Toolbar, Typography, Container } from '@mui/material';
@@ -76,7 +75,7 @@ const App: React.FC = () => {
                 <Typography
                   variant="h5"
                   component="a"
-                  href="/"
+                  href="#/"
                   sx={{
                     fontWeight: 700,
                     color: 'inherit',
