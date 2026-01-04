@@ -134,7 +134,7 @@ http://localhost:3000
 
 ## 👤 Author
 
-**Fateme**
+**Fateme ٍEsbati**
 Front-End / Software Engineer
 Background in Computer Engineering
 Interested in clean architecture, UX, and scalable front-end systems
